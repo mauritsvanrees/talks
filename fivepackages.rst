@@ -1,6 +1,8 @@
 Vijf pakketten van mij en anderen
 =================================
 
+.. Lightning talk for the Dutch Plone User Day 2012 in Arnhem.
+
 Maurits van Rees:
 
   http://maurits.vanrees.org/
@@ -13,13 +15,13 @@ Zest Software, The Netherlands:
 
 This talk:
 
-  https://github.com/mauritsvanrees/talks
+  https://github.com/mauritsvanrees/talks/blob/master/fivepackages.rst
 
 
 collective.catalogcleanup
 -------------------------
 
-``@@collective-catalogcleanup``::
+``@@collective-catalogcleanup?dry_run=false``::
 
     Handling catalog portal_catalog.
     Brains in portal_catalog: 20148
@@ -101,3 +103,24 @@ zest.commentcleanup
 http://pypi.python.org/pypi/zest.commentcleanup
 
 https://github.com/zestsoftware/zest.commentcleanup
+
+
+Lijstje
+-------
+
+::
+
+  collective.catalogcleanup
+
+  collective.csv2dict
+
+  dexterity.membrane
+
+  smtp2zope, poi.receivemail
+
+  zest.commentcleanup
+
+
+Deze presentatie: ``fivepackages.rst`` op
+
+https://github.com/mauritsvanrees/talks
