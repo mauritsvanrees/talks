@@ -94,4 +94,10 @@ https://github.com/collective/poi.receivemail
 zest.commentcleanup
 -------------------
 
+``@@cleanup-comments-overview``
 
+.. image:: https://raw.github.com/mauritsvanrees/talks/master/static/zest-commentcleanup.png
+
+http://pypi.python.org/pypi/zest.commentcleanup
+
+https://github.com/zestsoftware/zest.commentcleanup
