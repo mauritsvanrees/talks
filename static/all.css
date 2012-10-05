@@ -1,0 +1,13 @@
+body {
+  color: #2193D1;
+}
+
+a.toc-backref {
+  text-decoration: none;
+}
+
+a {
+  font-family: "Courier", "Helvetica Neue", Arial, FreeSans, sans-serif;
+  color: #DB610D;
+  text-decoration: none;
+}

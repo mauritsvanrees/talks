@@ -1,0 +1,16 @@
+body {
+  font-size: 16pt;
+  margin-left: 5px;
+}
+
+.section {
+  background: transparent url(zet_klein.png) no-repeat scroll 98% 2%;
+  margin-top: 800px;
+  margin-bottom: 800px;
+  padding-top: 0px;
+  height: 700px;
+}
+
+img {
+  margin-left: 100px;
+}
