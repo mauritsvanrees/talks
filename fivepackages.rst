@@ -61,8 +61,35 @@ https://github.com/collective/collective.csv2dict
 dexterity.membrane
 ------------------
 
+::
+
+  membrane + dexterity + Plone 4.1+
+
+
+http://pypi.python.org/pypi/dexterity.membrane
+
+https://github.com/collective/dexterity.membrane
+
+
 smtp2zope, poi.receivemail
 --------------------------
+
+::
+
+  cat testmail.txt > /path/to/smtp2zope \
+    http://admin:secret@example.org/my-mail-handler
+
+  helpdesk@example.org "|/path/to/smtp2zope \
+    http://example.org/tracker/@@poimail"
+
+http://pypi.python.org/pypi/smtp2zope
+
+https://github.com/collective/smtp2zope
+
+http://pypi.python.org/pypi/poi.receivemail
+
+https://github.com/collective/poi.receivemail
+
 
 zest.commentcleanup
 -------------------
