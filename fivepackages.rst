@@ -78,7 +78,7 @@ smtp2zope, poi.receivemail
 
 ::
 
-  cat testmail.txt > /path/to/smtp2zope \
+  cat testmail.txt | /path/to/smtp2zope \
     http://admin:secret@example.org/my-mail-handler
 
   helpdesk@example.org "|/path/to/smtp2zope \
